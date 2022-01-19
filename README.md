@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @csdal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Computer Science and AI.
+- 🌱 I’m currently learning Computer Science and AI
+- 💞️ I’m looking to collaborate on anywhere I find time.
+- 📫 How to reach me: Telegram [t.me/csiandal]
 
-
-[so boring to fill this]
-
-May God be with you all!
 <!---
 csdal/csdal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
